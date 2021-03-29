@@ -3,3 +3,7 @@ Cover: Muhammad Rozan Kamaluddin
 Penyunting: M Ikhwan Fahrudin
 Request tanggal 
 Cetakan 1: 13-02-2021
+
+font:
+Brush Script Std
+Corbel Light
